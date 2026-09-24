@@ -1,0 +1,19 @@
+{
+  "wheel_id": 283,
+  "structure": "umbrella",
+  "slug": "financebrokercentralcoast-com-101",
+  "project": "mortgage-brokers-central-coast-comparison-6638b09bb39deac0c692c",
+  "parent_t1_ref": "financebrokercentralcoast-com-150",
+  "node_role": "feeder",
+  "money_target": "financebrokercentralcoast.com.au",
+  "primary_kw": "mortgage brokers central coast comparison",
+  "intended_url": "https://sitesau.github.io/financebrokercentralcoast-com-101/",
+  "writeback_nonce": "7ebb564db103a0b8",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/mortgage-brokers-central-coast-9f399a3d1c9e230e5116594bc79ff/",
+      "anchor": "mortgage brokers central coast",
+      "rel": "follow"
+    }
+  ]
+}
